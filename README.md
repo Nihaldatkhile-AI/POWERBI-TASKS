@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to bring Sales, Inventory, and Produc
 ## 📸 Dashboard Preview
 
 ### Page 1 – Sales Analytics
-<!-- Upload your Sales Dashboard screenshot here -->
+![image alt](https://github.com/Nihaldatkhile-AI/POWERBI-TASKS/blob/daccf9da11c758150593fb5ae05e44422963ac85/Images%20.png)
 
 ### Page 2 – Inventory Analytics
 <!-- Upload your Inventory Dashboard screenshot here -->
